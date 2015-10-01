@@ -1,4 +1,4 @@
-RB-INSERT(T, z)
+RB-INSERT(T, z) // This algorithm is used to insert a node in BS-tree 
 1. y  = T.nil
 2. x  = T.root 
 3.   while x ?T.nil
